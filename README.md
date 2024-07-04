@@ -16,10 +16,10 @@
 - **Especialización en Back-End** - Oracle
 
 ### 📌 Proyectos Clave
-- **[Littlelemon-Maestro](https://github.com/Fernandofarfn/Littlelemon-Maestro)**
-- **[Tienda-de-plantas](https://github.com/Fernandofarfn/Tienda-de-plantas)**
-- **[Agencia-de-autos](https://github.com/Fernandofarfn/Agencia-de-autos)**
-- **[Conversor-de-monedas](https://github.com/Fernandofarfn/Conversor-de-monedas)**
+- **[Littlelemon-Maestro](https://github.com/Fernandofarfan/Littlelemon-Maestro)**
+- **[Tienda-de-plantas](https://github.com/Fernandofarfan/Tienda-de-plantas)**
+- **[Agencia-de-autos](https://github.com/Fernandofarfan/Agencia-de-autos)**
+- **[Conversor-de-monedas](https://github.com/Fernandofarfan/Conversor-de-monedas)**
 
 ### 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Fernandofarfn&show_icons=true&theme=dark)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Fernandofarfan&show_icons=true&theme=dark)
