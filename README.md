@@ -310,7 +310,8 @@ Soy un **Desarrollador Full Stack** y **Administrador de Bases de Datos** con m�
 <td width="50%">
 
 ### 🍋 Little Lemon Restaurant
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Fernandofarfan/Little-Lemon)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/fernandofarfan/Little-Lemon)
+[![Live Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square&logo=vercel)](https://github.com/fernandofarfan/Little-Lemon)
 
 **Sistema completo de reservas para restaurante**
 
@@ -333,7 +334,8 @@ Aplicación full-stack que permite a los usuarios reservar mesas, gestionar sus 
 <td width="50%">
 
 ### 🌱 Paradise Nursery E-commerce
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Fernandofarfan/tienda-plantas)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/fernandofarfan/paradise-nursery-shopping)
+[![Live Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square&logo=vercel)](https://paradise-nursery-shopping.vercel.app/)
 
 **Plataforma de comercio electrónico completa**
 
@@ -358,7 +360,7 @@ E-commerce moderno para venta de plantas con carrito de compras, gestión de inv
 <td width="50%">
 
 ### 🚗 Agencia de Autos
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Fernandofarfan/agencia-autos)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/fernandofarfan/agencia-autos)
 
 **Sistema de gestión para concesionaria**
 
@@ -381,7 +383,8 @@ Aplicación empresarial para administración completa de vehículos, clientes, v
 <td width="50%">
 
 ### 💱 Conversor de Monedas
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Fernandofarfan/conversor-de-monedas)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/fernandofarfan/conversor-de-monedas)
+[![Live Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square&logo=github)](https://fernandofarfan.github.io/conversor-de-monedas/)
 
 **Aplicación de conversión de divisas**
 
