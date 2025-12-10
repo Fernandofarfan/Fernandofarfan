@@ -7,7 +7,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-14b8a6?style=for-the-badge&logoColor=white)](https://fernandofarfan.github.io/Fernando-Farfan-Portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-farfan)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/guillermo-fernando-farfan-romero)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/fernando-farfan.855a5067/badges#credly)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernando.farfan16@gmail.com)
 
 </div>
@@ -297,7 +297,7 @@ Soy un **Desarrollador Full Stack** y **Administrador de Bases de Datos** con m�
 
 <div align="center">
 
-**🏅 [Ver todas las certificaciones verificadas en Credly](https://www.credly.com/users/guillermo-fernando-farfan-romero)**
+**🏅 [Ver todas las certificaciones verificadas en Credly](https://www.credly.com/users/fernando-farfan.855a5067/badges#credly)**
 
 </div>
 
