@@ -124,15 +124,6 @@ Soy un **Desarrollador Full Stack** y **Administrador de Bases de Datos** con m�
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://fernandofarfan-stats.vercel.app/api?username=fernandofarfan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://fernandofarfan-stats.vercel.app/api/top-langs/?username=fernandofarfan&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
----
-
 ## � Métricas Clave & Logros
 
 <div align="center">
