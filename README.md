@@ -39,10 +39,6 @@ const fernando = {
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=fernandofarfan&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandofarfan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandofarfan&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -51,7 +47,7 @@ const fernando = {
 <br/>
 
 <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandofarfan&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=fernandofarfan&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
