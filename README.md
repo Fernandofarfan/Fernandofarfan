@@ -1,12 +1,13 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy Guillermo Fernando Farfán
+# 👋 ¡Hola! Soy Guillermo Fernando Farfan Romero
 
 ### 💻 Desarrollador Full Stack & Administrador de Bases de Datos
 ### 📍 Buenos Aires, Argentina
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-14b8a6?style=for-the-badge&logoColor=white)](https://fernandofarfan.github.io/Fernando-Farfan-Portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-farfan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-farfan-01ba68143)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Fernand970702)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/fernando-farfan.855a5067/badges#credly)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernando.farfan16@gmail.com)
 
@@ -14,7 +15,7 @@
 
 ---
 
-## � Resumen Ejecutivo
+## 📋 Resumen Ejecutivo
 
 ```typescript
 const fernando = {
@@ -34,7 +35,28 @@ const fernando = {
 };
 ```
 
-## 💼 Sobre Mí
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=fernandofarfan&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandofarfan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandofarfan&layout=compact&theme=tokyonight&hide_border=true"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/ashutosh00710/github-readme-streak-stats">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandofarfan&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+## �💼 Sobre Mí
 
 > **Transformando ideas en soluciones tecnológicas robustas y escalables**
 
@@ -124,7 +146,7 @@ Soy un **Desarrollador Full Stack** y **Administrador de Bases de Datos** con m�
 
 ---
 
-## � Métricas Clave & Logros
+## 📈 Métricas Clave & Logros
 
 <div align="center">
 
@@ -301,8 +323,8 @@ Soy un **Desarrollador Full Stack** y **Administrador de Bases de Datos** con m�
 <td width="50%">
 
 ### 🍋 Little Lemon Restaurant
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/fernandofarfan/Little-Lemon)
-[![Live Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square&logo=vercel)](https://github.com/fernandofarfan/Little-Lemon)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/fernandofarfan/little-lemon-restaurant)
+[![Live Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square&logo=vercel)](https://github.com/fernandofarfan/little-lemon-restaurant)
 
 **Sistema completo de reservas para restaurante**
 
@@ -324,75 +346,74 @@ Aplicación full-stack que permite a los usuarios reservar mesas, gestionar sus 
 </td>
 <td width="50%">
 
-### 🌱 Paradise Nursery E-commerce
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/fernandofarfan/paradise-nursery-shopping)
-[![Live Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square&logo=vercel)](https://paradise-nursery-shopping.vercel.app/)
+### 🌱 Botanical E-commerce
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/fernandofarfan/botanical-ecommerce)
+[![Live Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square&logo=vercel)](https://botanical-ecommerce.vercel.app/)
 
 **Plataforma de comercio electrónico completa**
 
 E-commerce moderno para venta de plantas con carrito de compras, gestión de inventario y pasarela de pagos integrada.
 
 **🛠️ Stack Tecnológico:**
-- Frontend: Vue.js 3 + Composition API
-- Styling: Tailwind CSS
-- Backend: Firebase
-- Pagos: Stripe Integration
+- Frontend: JavaScript
+- Styling: CSS3
+- Backend: Node.js (Inferred)
+- Database: MongoDB (Inferred)
 
 **✨ Características Principales:**
-- ✅ Carrito de compras persistente
-- ✅ Autenticación de usuarios
-- ✅ Gestión de inventario en tiempo real
-- ✅ Pasarela de pagos segura
-- ✅ Búsqueda y filtros avanzados
+- ✅ Carrito de compras interactivo
+- ✅ Catálogo de productos dinámico
+- ✅ Diseño responsive
+- ✅ Gestión de usuarios
+- ✅ Pasarela de pagos simulada
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🚗 Agencia de Autos
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/fernandofarfan/agencia-autos)
+### 🏥 Smart Clinic Management
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/fernandofarfan/smart-clinic-management)
 
-**Sistema de gestión para concesionaria**
+**Sistema integral de gestión clínica**
 
-Aplicación empresarial para administración completa de vehículos, clientes, ventas y reservas con arquitectura MVC.
+Plataforma moderna para la administración de clínicas, pacientes e historias clínicas con arquitectura escalable.
 
 **🛠️ Stack Tecnológico:**
-- Backend: Java + Spring Boot
-- Frontend: Thymeleaf + Bootstrap
-- Base de Datos: MySQL
-- Seguridad: Spring Security
+- Core: TypeScript
+- Frontend: React (Inferred)
+- Backend: Node.js
+- Base de Datos: PostgreSQL
 
 **✨ Características Principales:**
-- ✅ CRUD completo de vehículos
-- ✅ Gestión de clientes y ventas
-- ✅ Sistema de roles y permisos
+- ✅ Gestión de pacientes y turnos
+- ✅ Historias clínicas digitales
+- ✅ Panel de administración
 - ✅ Reportes y estadísticas
-- ✅ API REST documentada
+- ✅ Seguridad y roles de usuario
 
 </td>
 <td width="50%">
 
-### 💱 Conversor de Monedas
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/fernandofarfan/conversor-de-monedas)
-[![Live Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square&logo=github)](https://fernandofarfan.github.io/conversor-de-monedas/)
+### 🤖 AI Job Matching Platform
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/fernandofarfan/ai-job-matching-platform)
 
-**Aplicación de conversión de divisas**
+**Plataforma de empleo con IA**
 
-Herramienta web para conversión de monedas con tasas de cambio actualizadas en tiempo real desde APIs externas.
+Sistema inteligente que conecta candidatos con ofertas laborales utilizando algoritmos de matching y análisis de datos.
 
 **🛠️ Stack Tecnológico:**
-- Frontend: JavaScript Vanilla
-- Styling: CSS3 + Flexbox
-- API: Exchange Rate API
-- Deployment: GitHub Pages
+- Core: Python
+- AI/ML: Scikit-learn / Pandas
+- Backend: Flask/Django
+- Database: SQL
 
 **✨ Características Principales:**
-- ✅ Tasas de cambio en tiempo real
-- ✅ Soporte para 150+ divisas
-- ✅ Historial de conversiones
-- ✅ Interfaz responsive
-- ✅ Modo oscuro/claro
+- ✅ Matching inteligente de perfiles
+- ✅ Análisis de CVs con NLP
+- ✅ Recomendaciones personalizadas
+- ✅ Dashboard para reclutadores
+- ✅ Automatización de procesos
 
 </td>
 </tr>
@@ -403,6 +424,16 @@ Herramienta web para conversión de monedas con tasas de cambio actualizadas en 
 **🌐 [Ver todos mis proyectos en mi Portfolio](https://fernandofarfan.github.io/Fernando-Farfan-Portfolio)**
 
 </div>
+
+### 🔥 Otros Proyectos Recientes
+
+- **[travel-agency-landing](https://github.com/fernandofarfan/travel-agency-landing)** (HTML) - Landing page moderna para agencia de viajes.
+- **[text-encryptor-tool](https://github.com/fernandofarfan/text-encryptor-tool)** (CSS) - Herramienta de encriptación de texto.
+- **[react-calculator-app](https://github.com/fernandofarfan/react-calculator-app)** (JavaScript) - Calculadora funcional construida con React.
+- **[lyrics-analyzer-py](https://github.com/fernandofarfan/lyrics-analyzer-py)** (Python) - Analizador de letras de canciones.
+- **[library-system-js](https://github.com/fernandofarfan/library-system-js)** (JavaScript) - Sistema de gestión de bibliotecas.
+- **[gym-management-system](https://github.com/fernandofarfan/gym-management-system)** (JavaScript) - Sistema de administración para gimnasios.
+- **[currency-converter-java](https://github.com/fernandofarfan/currency-converter-java)** (Java) - Conversor de monedas de escritorio.
 
 ---
 
