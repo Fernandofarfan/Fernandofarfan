@@ -49,7 +49,7 @@ https://fernandofarfan.github.io/Fernando-Farfan-Portfolio
 
 ---
 
-## 🧰 Stack principal
+## 🧰 Stack principal (uso real en producción)
 
 ### Backend & APIs
 - Python (Django / DRF / Flask)
