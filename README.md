@@ -1,110 +1,141 @@
 <div align="center">
 
-# 👋 Hola, soy Guillermo Fernando Farfan Romero  
-### Backend & Data Systems · Bases de Datos · Automatización · Observabilidad  
-📍 Buenos Aires, Argentina
+<img src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=200&section=header&text=Fernando%20Farfan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Data%20Systems%20%7C%20Buenos%20Aires&descAlignY=58&descSize=18" />
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-14b8a6?style=for-the-badge&logoColor=white)](https://fernandofarfan.github.io/Fernando-Farfan-Portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-farfan-01ba68143)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/fernando-farfan.855a5067/badges#credly)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernando.farfan16@gmail.com)
+<p>
+  <a href="https://fernandofarfan.github.io/Fernando-Farfan-Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/fernando-farfan-01ba68143">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/users/fernando-farfan.855a5067/badges#credly">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
+  </a>
+  <a href="mailto:fernando.farfan16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=fernandofarfan&color=14b8a6&style=flat-square&label=Profile+Views" />
 
 </div>
 
 ---
 
-## 🧠 En una frase
+## Acerca de mí
 
-Construyo **APIs y sistemas de datos** que funcionan en el mundo real: rendimiento sólido, integridad de datos, automatización y cambios controlados sin afectar producción.
+Backend engineer con **6+ años de experiencia** diseñando e implementando sistemas de datos, APIs y pipelines en entornos productivos. Mi foco está en construir soluciones **robustas, observables y mantenibles**: desde la optimización de consultas SQL hasta el diseño de arquitecturas orientadas a eventos.
+
+Trabajo con equipos que valoran la calidad del código, los deploys seguros y la trazabilidad de los sistemas en producción.
+
+```typescript
+const fernando: BackendEngineer = {
+  ubicacion:       "Buenos Aires, Argentina",
+  especializacion: ["Backend Systems", "Data Engineering", "API Design"],
+  experiencia:     "6+ años en entornos productivos",
+
+  tecnologias: {
+    lenguajes:       ["Python", "TypeScript", "SQL"],
+    frameworks:      ["Django", "DRF", "Flask", "FastAPI"],
+    basesdeDatos:    ["PostgreSQL", "SQL Server", "MySQL", "MongoDB"],
+    infraestructura: ["Docker", "Linux", "Git", "CI/CD"],
+    bi_analytics:    ["Power BI", "Looker Studio"],
+  },
+
+  principios: [
+    "Cambios controlados sin afectar producción",
+    "Observabilidad como ciudadano de primera clase",
+    "Datos limpios antes que datos rápidos",
+    "APIs bien diseñadas, no solo funcionales",
+  ],
+
+  idiomas: { español: "Nativo", inglés: "Profesional (B2+)" },
+};
+```
 
 ---
 
-## 📌 Resumen profesional
-
-```ts
-const guillermo = {
-  especializacion: "Backend & Data Systems",
-  experiencia: "6+ años en entornos productivos e institucionales",
-  foco: [
-    "Desarrollo de APIs (Python, servicios REST, integración)",
-    "Administración y optimización de bases de datos",
-    "Automatización de procesos y scripts",
-    "Observabilidad y monitoreo"
-  ],
-  bases_de_datos: ["SQL Server", "PostgreSQL", "MySQL", "MongoDB"],
-  infraestructura: ["Docker", "CI/CD", "Linux", "Git"],
-  idiomas: ["Español (Nativo)", "Inglés (Profesional)"]
-};
-## ⭐ Proyectos principales
+## Proyectos destacados
 
 | Proyecto | Descripción | Stack |
-|----------|------------|-------|
-| **Dashboard-Bases-Datos** | Monitoreo y observabilidad de bases de datos: consultas lentas, locks, índices y métricas | Python · API · Docker |
-| **Monitor-CI-CD** | Dashboard de monitoreo CI/CD en tiempo real con métricas tipo DORA | TypeScript · WebSockets · Postgres |
-| **rulos-locos** | Dashboard financiero con múltiples fuentes y sistema de alertas | TypeScript · Frontend/Backend |
-| **AI Job Matching Platform** | Sistema de matching de CVs y ofertas con procesamiento y scoring de datos | Python · Data Processing |
-
-🌐 Más proyectos en:  
-https://fernandofarfan.github.io/Fernando-Farfan-Portfolio
-
----
-
-## 🧰 Stack principal (uso real en producción)
-
-### Backend & APIs
-- Python (Django / DRF / Flask)
-- Desarrollo de APIs REST
-- Procesos batch y validación de datos
-
-### Bases de Datos
-- SQL Server
-- PostgreSQL
-- MySQL
-- MongoDB
-- Optimización SQL · Índices · Planes de ejecución
-
-### Infraestructura
-- Docker
-- Git
-- Linux
-- CI/CD
-
-### Data & BI
-- Power BI
-- Looker Studio
-- SQL avanzado
-
----
-
-## 📊 Estadísticas
+|---|---|---|
+| [**Database Dashboard**](https://fernandofarfan.github.io/Fernando-Farfan-Portfolio) | Plataforma de observabilidad para bases de datos: consultas lentas, deadlocks, índices fragmentados y métricas de salud en tiempo real | Python · REST API · Docker · PostgreSQL |
+| [**Monitor CI/CD**](https://fernandofarfan.github.io/Fernando-Farfan-Portfolio) | Dashboard de métricas DORA en tiempo real: deployment frequency, lead time, MTTR y change failure rate | TypeScript · WebSockets · PostgreSQL |
+| [**Rulos Locos**](https://fernandofarfan.github.io/Fernando-Farfan-Portfolio) | Plataforma financiera multi-fuente con motor de alertas configurable y reconciliación automática | TypeScript · Full Stack · Event-driven |
+| [**AI Job Matching**](https://fernandofarfan.github.io/Fernando-Farfan-Portfolio) | Sistema de matching inteligente entre CVs y posiciones con scoring semántico y procesamiento batch | Python · NLP · Data Pipeline |
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandofarfan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandofarfan&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img height="180em" src="https://streak-stats.demolab.com?user=fernandofarfan&theme=tokyonight&hide_border=true"/>
+[Ver todos los proyectos →](https://fernandofarfan.github.io/Fernando-Farfan-Portfolio)
 
 </div>
 
 ---
 
-## 🏅 Certificaciones
+## Stack técnico
 
-Certificaciones profesionales de IBM, Google, Meta, Microsoft y Oracle.  
-Verificadas en Credly:  
-https://www.credly.com/users/fernando-farfan.855a5067/badges#credly
+<div align="center">
+
+**Backend & APIs**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![REST](https://img.shields.io/badge/REST_API-FF6B6B?style=flat-square&logoColor=white)
+
+**Bases de Datos**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Infraestructura & Herramientas**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+</div>
 
 ---
 
-## 📫 Contacto
-
-- LinkedIn: https://www.linkedin.com/in/fernando-farfan-01ba68143  
-- Email: fernando.farfan16@gmail.com  
-- Portfolio: https://fernandofarfan.github.io/Fernando-Farfan-Portfolio  
+## Estadísticas
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=fernandofarfan&color=14b8a6&style=for-the-badge" />
+
+<img src="https://streak-stats.demolab.com?user=fernandofarfan&theme=tokyonight&hide_border=true" />
+
 </div>
+
+---
+
+## Certificaciones
+
+Certificaciones verificadas emitidas por **IBM, Google, Meta, Microsoft y Oracle**, cubriendo cloud computing, bases de datos, análisis de datos y desarrollo de software.
+
+<div align="center">
+
+[![Ver certificaciones en Credly](https://img.shields.io/badge/Ver_certificaciones_verificadas-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/fernando-farfan.855a5067/badges#credly)
+
+</div>
+
+---
+
+## Contacto
+
+Disponible para proyectos freelance, posiciones backend y colaboraciones en sistemas de datos.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Conectar_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-farfan-01ba68143)
+[![Email](https://img.shields.io/badge/Enviar_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernando.farfan16@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Ver_Portfolio-14b8a6?style=for-the-badge&logo=vercel&logoColor=white)](https://fernandofarfan.github.io/Fernando-Farfan-Portfolio)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=100&section=footer" />
