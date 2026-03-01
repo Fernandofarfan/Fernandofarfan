@@ -117,8 +117,8 @@ const fernando: BackendEngineer = {
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fernandofarfan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandofarfan&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=fernandofarfan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=fernandofarfan&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="Top Languages" />
   <br />
   <img src="https://streak-stats.demolab.com?user=fernandofarfan&theme=tokyonight&hide_border=true&background=00000000" height="150" alt="GitHub Streak" />
 </div>
