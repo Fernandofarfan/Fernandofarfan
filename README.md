@@ -6,7 +6,7 @@
   <a href="https://fernandofarfan.github.io/Fernando-Farfan-Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/fernando-farfan-01ba68143">
+  <a href="https://www.linkedin.com/in/guillermo-farfan">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.credly.com/users/fernando-farfan.855a5067/badges#credly">
