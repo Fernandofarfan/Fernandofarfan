@@ -1,25 +1,64 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=200&section=header&text=Fernando%20Farfan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%26%20Backend%20Engineer%20%7C%20DBA%20%7C%20DevOps&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=14b8a6&amp;height=200&amp;section=header&amp;text=Fernando%20Farfan&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full%20Stack%20%26%20Backend%20Engineer%20%7C%20DBA%20%7C%20DevOps&amp;descAlignY=58&amp;descSize=18" />
 
 <p>
   <a href="https://fernandofarfan.github.io/Fernando-Farfan-Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/fernando-farfan-01ba68143">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
   </a>
   <a href="https://www.credly.com/users/fernando-farfan.855a5067/badges#credly">
-    <img src="https://img.shields.io/badge/Certificaciones-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
+    <img src="https://img.shields.io/badge/Certificaciones-FF6B00?style=for-the-badge&amp;logo=credly&amp;logoColor=white" />
   </a>
   <a href="mailto:fernando.farfan16@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=fernandofarfan&color=14b8a6&style=flat-square&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=fernandofarfan&amp;color=14b8a6&amp;style=flat-square&amp;label=Profile+Views" />
 
 </div>
+
+---
+
+## 👨🏻‍💻 Acerca de mí
+
+🚀 **Desarrollador Full Stack, Backend Engineer & DBA** con **+9 años de experiencia** transformando ideas en soluciones digitales escalables. Combino una sólida formación técnica en Sistemas de Información (UTN) con conocimientos en Relaciones Laborales (UBA), lo que me permite comprender tanto la arquitectura tecnológica como las dinámicas del negocio.
+
+Mi enfoque actual está en construir ecosistemas robustos, integrando microservicios, Infraestructura como Código (IaC) y automatización de procesos operativos.
+
+```typescript
+const fernando: SoftwareEngineer = {
+  ubicacion:       "Buenos Aires, Argentina",
+  perfil:          ["Full Stack Developer", "Backend Architecture", "Database Administration", "DevOps"],
+  experiencia:     "9+ años en TI (6+ como DBA, 4+ Full Stack)",
+
+  tecnologias: {
+    backend:       ["Python (FastAPI/Django)", "Java (Spring Boot)", "Node.js", "TypeScript"],
+    frontend:      ["React", "Vue.js", "Tailwind CSS"],
+    bases_de_datos:["SQL Server", "PostgreSQL", "MySQL", "MongoDB"],
+    devops_cloud:  ["Docker", "Kubernetes", "Terraform", "CI/CD (GitHub Actions)", "GCP"],
+    automatizacion:["PowerShell", "AppScript", "Power Automate", "Power BI"],
+  },
+
+  principios: [
+    "Alta disponibilidad y resiliencia (High Availability)",
+    "Observabilidad como ciudadano de primera clase",
+    "Automatización para reducir tiempos operativos (hasta un 60%)",
+    "Seguridad por diseño (Principio de menor privilegio, TDE)",
+  ],
+  
+  certificaciones_destacadas: [
+    "IBM DevOps and Software Engineering", 
+    "IBM Java Developer Professional",
+    "Google Data Analytics",
+    "Scrum Master"
+  ],
+
+  disponibilidad: "Open to Work 🚀"
+};
 
 ---
 
