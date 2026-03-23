@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=200&section=header&text=Fernando%20Farfan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Data%20Systems%20%7C%20Buenos%20Aires&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=14b8a6&height=200&section=header&text=Fernando%20Farfan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%26%20Backend%20Engineer%20%7C%20DBA%20%7C%20DevOps&descAlignY=58&descSize=18" />
 
 <p>
   <a href="https://fernandofarfan.github.io/Fernando-Farfan-Portfolio">
@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.credly.com/users/fernando-farfan.855a5067/badges#credly">
-    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
+    <img src="https://img.shields.io/badge/Certificaciones-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
   </a>
   <a href="mailto:fernando.farfan16@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -25,38 +25,39 @@
 
 ## 👨🏻‍💻 Acerca de mí
 
-Backend engineer con **6+ años de experiencia** diseñando e implementando sistemas de datos, APIs y pipelines en entornos productivos. Mi foco está en construir soluciones **robustas, observables y mantenibles**: desde la optimización de consultas SQL hasta el diseño de arquitecturas orientadas a eventos.
+🚀 **Desarrollador Full Stack, Backend Engineer & DBA** con **+9 años de experiencia** transformando ideas en soluciones digitales escalables. Combino una sólida formación técnica en Sistemas de Información (UTN) con conocimientos en Relaciones Laborales (UBA), lo que me permite comprender tanto la arquitectura tecnológica como las dinámicas del negocio.
 
-Trabajo con equipos que valoran la calidad del código, los deploys seguros y la trazabilidad de los sistemas en producción.
+Mi enfoque actual está en construir ecosistemas robustos, integrando microservicios, Infraestructura como Código (IaC) y automatización de procesos operativos.
 
 ```typescript
-const fernando: BackendEngineer = {
+const fernando: SoftwareEngineer = {
   ubicacion:       "Buenos Aires, Argentina",
-  especializacion: ["Backend Systems", "Data Engineering", "API Design"],
-  experiencia:     "6+ años en entornos productivos",
+  perfil:          ["Full Stack Developer", "Backend Architecture", "Database Administration", "DevOps"],
+  experiencia:     "9+ años en TI (6+ como DBA, 4+ Full Stack)",
 
   tecnologias: {
-    lenguajes:       ["Python", "TypeScript", "SQL"],
-    frameworks:      ["Django", "DRF", "Flask", "FastAPI"],
-    bases_de_datos:  ["PostgreSQL", "SQL Server", "MySQL", "MongoDB"],
-    infraestructura: ["Docker", "Linux", "Git", "CI/CD"],
-    bi_analytics:    ["Power BI", "Looker Studio"],
+    backend:       ["Python (FastAPI/Django)", "Java (Spring Boot)", "Node.js", "TypeScript"],
+    frontend:      ["React", "Vue.js", "Tailwind CSS"],
+    bases_de_datos:["SQL Server", "PostgreSQL", "MySQL", "MongoDB"],
+    devops_cloud:  ["Docker", "Kubernetes", "Terraform", "CI/CD (GitHub Actions)", "GCP"],
+    automatizacion:["PowerShell", "AppScript", "Power Automate", "Power BI"],
   },
 
   principios: [
-    "Cambios controlados sin afectar producción",
+    "Alta disponibilidad y resiliencia (High Availability)",
     "Observabilidad como ciudadano de primera clase",
-    "Datos limpios antes que datos rápidos",
-    "APIs bien diseñadas, no solo funcionales",
+    "Automatización para reducir tiempos operativos (hasta un 60%)",
+    "Seguridad por diseño (Principio de menor privilegio, TDE)",
   ],
   
-  intereses_actuales: [
-    "Arquitecturas en la nube", 
-    "Microservicios", 
-    "Optimización de rendimiento"
+  certificaciones_destacadas: [
+    "IBM DevOps and Software Engineering", 
+    "IBM Java Developer Professional",
+    "Google Data Analytics",
+    "Scrum Master"
   ],
 
-  idiomas: { español: "Nativo", inglés: "Profesional (B2+)" }
+  disponibilidad: "Open to Work 🚀"
 };
 ```
 
@@ -66,10 +67,11 @@ const fernando: BackendEngineer = {
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [**Database Dashboard**](https://fernandofarfan.github.io/Fernando-Farfan-Portfolio) | Plataforma de observabilidad para bases de datos: consultas lentas, deadlocks, fragmentación y métricas de salud en tiempo real. | Python · REST API · Docker · PostgreSQL |
-| [**Monitor CI/CD**](https://fernandofarfan.github.io/Fernando-Farfan-Portfolio) | Dashboard de métricas DORA en tiempo real: deployment frequency, lead time, MTTR y change failure rate. | TypeScript · WebSockets · PostgreSQL |
-| [**Rulos Locos**](https://fernandofarfan.github.io/Fernando-Farfan-Portfolio) | Plataforma financiera multi-fuente con motor de alertas configurable y reconciliación automática. | TypeScript · Full Stack · Event-driven |
-| [**AI Job Matching**](https://fernandofarfan.github.io/Fernando-Farfan-Portfolio) | Sistema de matching inteligente entre CVs y posiciones con scoring semántico y procesamiento batch. | Python · NLP · Data Pipeline |
+| [**Autonomous FinOps Engine**](https://github.com/Fernandofarfan/Autonomous-FinOps-Engine) | Motor backend autónomo que escanea entornos GCP para detectar *Cloud Waste* y genera automáticamente código IaC para remediarlo. | Python · Terraform · GCP API · Jinja2 |
+| [**EmpleoIA (Job Matching)**](https://github.com/Fernandofarfan/ai-job-matching-platform) | Plataforma inteligente de búsqueda de empleo con scraping sin APIs, optimización de CVs (NLP) y dashboard Kanban de seguimiento. | Python · Flask · Selenium · NLP (spaCy) |
+| [**Smart Clinic Management v2.0**](https://github.com/Fernandofarfan/Smart-Clinic-Management) | Arquitectura empresarial con seguridad RBAC, microservicio de IA para análisis de síntomas y despliegue cloud-native. | Java Spring Boot · React · Kubernetes · EKS |
+| [**Optimizador de PC v2.0**](https://github.com/Fernandofarfan/Optimizador-de-Computadora-v2.0) | Suite profesional open-source de optimización para Windows con 42 funciones operativas, reportes HTML y automatización. | PowerShell · Batch · HTML/CSS |
+| [**Monitor CI/CD**](https://github.com/Fernandofarfan/Monitor-CI-CD) | Dashboard en tiempo real para pipelines con métricas DORA, integración con GitHub Actions/GitLab CI y WebSockets. | TypeScript · Vue 3 · Express · PostgreSQL |
 
 <div align="center">
 
@@ -86,29 +88,37 @@ const fernando: BackendEngineer = {
 **Backend & APIs**
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-FF6B6B?style=flat-square&logoColor=white" />
 
 <br/>
 
-**Bases de Datos**
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+
+<br/>
+
+**Bases de Datos & Data**
 <br/>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 
 <br/>
 
-**Infraestructura & Herramientas**
+**Infraestructura, DevOps & Cloud**
 <br/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
 
 </div>
 
@@ -125,13 +135,13 @@ const fernando: BackendEngineer = {
 
 ---
 
-## 🎓 Certificaciones
+## 🎓 Certificaciones Destacadas (+24 en total)
 
-Certificaciones verificadas emitidas por **IBM, Google, Meta, Microsoft y Oracle**, cubriendo cloud computing, bases de datos, análisis de datos y desarrollo de software.
+Cuento con validaciones oficiales en Cloud Computing, bases de datos, análisis de datos y desarrollo de software emitidas por **IBM, Google, Meta, Microsoft y Oracle**.
 
 <div align="center">
 
-[![Ver certificaciones en Credly](https://img.shields.io/badge/Ver_certificaciones_verificadas-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/fernando-farfan.855a5067/badges#credly)
+[![Ver certificaciones en Credly](https://img.shields.io/badge/Ver_credenciales_verificadas-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/fernando-farfan.855a5067/badges#credly)
 
 </div>
 
@@ -139,7 +149,7 @@ Certificaciones verificadas emitidas por **IBM, Google, Meta, Microsoft y Oracle
 
 ## 📫 Contacto
 
-Disponible para proyectos freelance, posiciones backend y colaboraciones en sistemas de datos.
+Actualmente **disponible para nuevos desafíos (Open to Work)** en posiciones Full Stack, Backend, DevOps o Administración de Bases de Datos. 
 
 <div align="center">
 
