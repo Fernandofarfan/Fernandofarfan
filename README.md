@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.credly.com/users/fernando-farfan.855a5067/badges">
-    <img src="https://img.shields.io/badge/Certificaciones-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Certificaciones" />
+    <img src="https://img.shields.io/badge/Credly%20Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badges" />
   </a>
   <a href="https://gfarfan.dev/#contact">
     <img src="https://img.shields.io/badge/Contacto-2b6cb0?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Contacto" />
@@ -92,16 +92,19 @@ const guillermo: EngineerProfile = {
 
 ---
 
-## 🎓 Certificaciones Destacadas
+## 🎓 Certificaciones Verificables en Credly & Coursera
 
-* 🏅 **Google Cloud Certified Associate Cloud Engineer (ACE)**
-* 🏅 **Microsoft Certified: Azure Database Administrator Associate (DP-300)**
-* 🏅 **Microsoft Certified: Azure Fundamentals (AZ-900)**
-* 🏅 **GitHub Foundations Certified**
-* 📜 **IBM Instana Observability & APM Specialist**
-* 📜 **IBM DevOps and Software Engineering Professional Certificate**
+* 📜 **IBM DevOps and Software Engineering Professional Certificate** (IBM / Credly)
+* 📜 **IBM Full Stack Software Developer Professional Certificate (V5)** (IBM / Credly)
+* 📜 **IBM Java Developer Professional Certificate V2** (IBM / Credly)
+* 📜 **IBM JavaScript Backend Developer Professional Certificate V2** (IBM / Credly)
+* 📜 **Google Data Analytics Professional Certificate** (Google / Credly)
+* 📜 **Meta Full-Stack Engineer Certificate & Meta Back-End Developer Certificate** (Meta / Credly)
+* 📜 **Google Cloud Fundamentals: Core Infrastructure** (Google Cloud)
+* 📜 **IBM Security for Professionals and DevOps Professionals** (IBM / Credly)
+* 📜 **IBM IT Scrum Master Specialization** (IBM / Coursera)
 
-👉 [Ver todas las credenciales verificables en Credly](https://www.credly.com/users/fernando-farfan.855a5067/badges)
+👉 [Ver todas las 11 credenciales verificadas en mi perfil de Credly](https://www.credly.com/users/fernando-farfan.855a5067/badges)
 
 ---
 
