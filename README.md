@@ -110,6 +110,7 @@ const guillermo: EngineerProfile = {
 
 ## 📫 Contacto
 
+* 📧 **Email:** [fernando.farfan16@gmail.com](mailto:fernando.farfan16@gmail.com)
 * 🌐 **Formulario de Contacto:** [https://gfarfan.dev/#contact](https://gfarfan.dev/#contact)
 * 💼 **LinkedIn:** [linkedin.com/in/guillermo-farfan](https://www.linkedin.com/in/guillermo-farfan/)
 * 💻 **Portafolio:** [gfarfan.dev](https://gfarfan.dev/)
