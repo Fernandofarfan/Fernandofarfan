@@ -27,7 +27,7 @@
 
 🚀 **Senior Software Engineer, Cloud Solutions Architect & Tech Lead** con más de 8 años de experiencia diseñando arquitecturas resilientes, microservicios asíncronos y plataformas cloud en **Google Cloud Platform (GCP)**.
 
-Combino una sólida formación técnica en Sistemas de Información (UTN) con la Licenciatura en Relaciones del Trabajo (UBA), lo que me permite liderar equipos de ingeniería con rigor técnico, cultura de calidad y visión estratégica de negocio.
+Combino una sólida formación técnica en Sistemas de Información (UTN) con estudios universitarios avanzados en Relaciones del Trabajo (UBA), lo que me permite liderar equipos de ingeniería con rigor técnico, cultura de calidad y visión estratégica de negocio.
 
 ```typescript
 const guillermo: EngineerProfile = {
