@@ -25,7 +25,7 @@
 
 ## 👨🏻‍💻 Acerca de mí
 
-🚀 **Senior Cloud Solutions Architect, Virtualization & Migrations Specialist & Tech Lead** con más de 8 años de experiencia diseñando arquitecturas cloud resilientes (**GCP & Azure**), plataformas de virtualización enterprise (**Microsoft Hyper-V 2025 & VMware vSphere**), migraciones masivas corporativas (**M4CE, Veeam VBR, SAP BW on HANA**) y microservicios backend asíncronos de alta disponibilidad.
+🚀 **Senior Cloud Solutions Architect, Backend Engineer & Tech Lead** con más de 8 años de experiencia diseñando arquitecturas cloud-native resilientes (**Google Cloud Platform & Microsoft Azure**), automatización con **Terraform (IaC)**, orquestación en **Kubernetes (GKE Autopilot)** y microservicios backend asíncronos de alta disponibilidad en **Python (FastAPI)**.
 
 Combino mi formación técnica en Sistemas de Información (UTN) con estudios universitarios avanzados en Relaciones del Trabajo (UBA), liderando equipos de ingeniería (6+ desarrolladores) con rigor técnico, cultura ágil y foco en eficiencia operativa y financiera (**FinOps**).
 
@@ -35,22 +35,18 @@ const guillermo: EngineerProfile = {
   roles:        [
     "Senior Cloud Solutions Architect",
     "Technical Lead",
-    "Lead Infrastructure & Virtualization Specialist",
     "Senior Python Backend Engineer",
+    "DevOps & FinOps Specialist",
     "DBA & Data Engineer"
   ],
   experiencia:  "8+ años en TI, Arquitectura Cloud & Ingeniería de Software",
 
   stack: {
     cloud_infra: [
-      "Google Cloud Platform (Compute Engine m2/n2, GKE, Cloud Run, M4CE, Shared VPC)",
-      "Microsoft Azure (Migraciones Azure → GCP)",
-      "Microsoft Hyper-V 2025 (SET 40 Gbps, Live Migration 20 Gbps)",
-      "VMware vSphere / ESXi",
-      "SAN Fibre Channel HPE Alletra / 3PAR (55 TB CSV, MPIO)",
-      "Veeam Backup & Replication (VBR)",
-      "Terraform / Terragrunt",
-      "Docker & Kubernetes (GKE Autopilot / Standard)",
+      "Google Cloud Platform (Compute Engine, GKE Autopilot, Cloud Run, Shared VPC, Cloud KMS)",
+      "Microsoft Azure",
+      "Terraform / Terragrunt (IaC)",
+      "Docker & Kubernetes",
       "GitOps (ArgoCD, GitHub Actions)"
     ],
     backend_apis: [
@@ -60,41 +56,36 @@ const guillermo: EngineerProfile = {
     ],
     databases_data: [
       "PostgreSQL (pgvector, Particionamiento)",
-      "Microsoft SQL Server (2012–2022, AlwaysOn)",
-      "SAP HANA 2.0 IaaS & Conector Backint para GCS",
+      "Microsoft SQL Server (AlwaysOn HA)",
       "Google BigQuery",
       "Redis (Caché distribuida, Pub/Sub)"
     ],
     observability_sre: [
-      "IBM Instana APM",
       "OpenTelemetry (OTel)",
-      "Zabbix",
       "Prometheus & Grafana",
       "Métricas DORA & FinOps"
     ]
   },
 
   metricas_clave: [
-    "Migración masiva de 75 servidores corporativos a GCP (68 VMs con M4CE + 7 nodos SAP BW on HANA sobre SLES)",
-    "Arquitectura y certificación en vivo de clúster HA Hyper-V 2025 (3 blades HPE Synergy, SAN 55 TB CSV, 5 días antes de plazo)",
     "Reducción sostenida del 28% en costos mensuales cloud mediante FinOps en Google Cloud Platform",
     "Lead time de despliegue reducido de 5 días a minutos bajo demanda (Zero-Downtime GitOps con ArgoCD)",
     "Reducción del 55% en latencia p95 de consultas complejas en bases de datos críticas de 8+ TB",
-    "Reducción del 45% en el MTTR mediante observabilidad full-stack con IBM Instana APM y OpenTelemetry"
+    "Reducción del 45% en el MTTR mediante observabilidad distribuida con OpenTelemetry"
   ]
 };
 ```
 
 ---
 
-## 🏢 Hitos Recientes & Proyectos Corporativos
+## 🏢 Experiencia Destacada
 
-| Empresa / Cliente | Alcance & Arquitectura | Tecnologías Clave |
+| Organización | Rol & Impacto | Tecnologías Clave |
 |---|---|---|
-| **Grupo Ramos** | **Migración Cloud Masiva (75 Servidores a GCP):**<br/>• Migración de 68 VMs en Fases I y II (~19.5 TB en 6 olas: AD, PAM, FortiAnalyzer 7 TB, Facturación NCF, Azul SFTP 5.4 TB) mediante M4CE y Landing Zone con Terraform (Shared VPC, GKE).<br/>• Migración Multi-Cloud SAP BW on HANA (Azure → GCP): 7 servidores SLES 15.5/15.6, instancia HANA PRD en `m2-ultramem-208` (208 vCPUs, 5.8 TB RAM) con Hyperdisk Extreme, NLB interno para ASCS e ingesta acelerada de ~2.9 TB vía SAP Backint a GCS + SAP CAR Rise en SLES 15 SP7. | GCP · Terraform · M4CE · GKE · SLES 15 for SAP · SAP HANA · Hyperdisk Extreme · Shared VPC · FinOps |
-| **Universal Group, Inc.**<br/>*(Swan Technologies)* | **Clúster Bare-Metal HA Microsoft Hyper-V 2025 & SAN 55 TB:**<br/>• Diseño, despliegue bare-metal, hardening (COBIT/Qualys) y certificación en vivo (5 días antes de plazo) del clúster HA `HVDevCluster1` en Windows Server 2025 sobre 3 blades HPE Synergy 480 Gen10 (108 cores, 1.5 TB RAM).<br/>• Storage SAN HPE Alletra/3PAR (11 CSVs = 55 TB, MPIO Round Robin), red SET 40 Gbps con Live Migration a 20 Gbps (0% pérdida) y migración piloto de 20 VMs (~4.05 TB en RHEL 8 UEFI Gen 2 y Windows Server) con Veeam VBR. | Windows Server 2025 · Hyper-V · HPE Synergy · HPE Alletra / 3PAR · SAN FC · SET 40G · Veeam VBR · RHEL 8 |
-| **Reforest Latam** | **Liderazgo Técnico, GitOps & FinOps en GCP:**<br/>• Dirección de equipo (6 devs), arquitectura de microservicios en FastAPI / Celery / Redis (-45% en latencia de consultas) y React 18 / TypeScript (-40% en llamadas redundantes).<br/>• Estrategia FinOps (-28% en costos cloud), Zero-Trust IAM/Cloud Armor y GitOps con GitHub Actions y ArgoCD hacia GKE Autopilot y Cloud Run. | GCP · GKE Autopilot · Cloud Run · Terraform · ArgoCD · Python (FastAPI) · PostgreSQL · React 18 · FinOps |
-| **Junta de Beneficencia de Guayaquil** | **Observabilidad APM & SRE de Misión Crítica:**<br/>• Despliegue de IBM Instana APM sobre infraestructura Nutanix AHV (.NET, IIS, SQL Server) integrado con OpenTelemetry y Zabbix, reduciendo el MTTR un 45%. | IBM Instana APM · OpenTelemetry · Nutanix AHV · SQL Server · Zabbix · SRE |
+| **Reforest Latam** | **Technical Lead & Senior Systems Engineer:**<br/>• Dirección de equipo (6 devs), arquitectura de microservicios en FastAPI / Celery / Redis (-45% en latencia de consultas) y React 18 / TypeScript (-40% en llamadas redundantes).<br/>• Estrategia FinOps (-28% en costos cloud), Zero-Trust IAM/Cloud Armor y GitOps con GitHub Actions y ArgoCD hacia GKE Autopilot y Cloud Run. | GCP · GKE Autopilot · Cloud Run · Terraform · ArgoCD · Python (FastAPI) · PostgreSQL · React 18 · FinOps |
+| **Consultoría Independiente & Proyectos Enterprise** | **Senior Cloud Architect & Software Consultant (Clientes bajo NDA):**<br/>• Diseño de arquitecturas multi-cloud y Landing Zones en Terraform, desarrollo de middleware asíncrono en Python (FastAPI, SQLAlchemy 2.0, Celery, Redis), microservicios en Java 17 (Spring Boot) y observabilidad con OpenTelemetry. | GCP · Terraform · Python · FastAPI · Java Spring Boot · PostgreSQL · SQL Server · Docker · Kubernetes |
+| **Universidad de Buenos Aires (UBA)** | **Senior Software Engineer & DBA:**<br/>• Administración de alta disponibilidad y performance tuning sobre 8+ TB de datos institucionales en SQL Server y PostgreSQL para +50.000 usuarios (-55% en latencia p95, 99.9% SLA) y automatización ETL en Python/Alembic. | SQL Server · PostgreSQL · Python · Alembic · Bash · Alta Disponibilidad · DRP/BCP |
+| **Gobierno de la Ciudad de Buenos Aires** | **Coordinador de Infraestructura & Operaciones de Sistemas:**<br/>• Coordinación de infraestructura híbrida Linux/Windows y motores SQL Server, PostgreSQL, MySQL y MongoDB para portales ciudadanos (+100.000 usuarios mensuales, 99.9% SLA, -30% en incidentes). | SQL Server · PostgreSQL · MySQL · MongoDB · Linux · Windows Server · Backups |
 
 ---
 
@@ -113,19 +104,16 @@ const guillermo: EngineerProfile = {
 
 <div align="center">
 
-**Cloud, Virtualización & DevOps**
+**Cloud, Contenedores & DevOps**
 <br/>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Hyper--V_2025-0078D4?style=flat-square&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/VMware_vSphere-607078?style=flat-square&logo=vmware&logoColor=white" />
-<img src="https://img.shields.io/badge/Veeam_VBR-00B336?style=flat-square&logo=veeam&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/ArgoCD-EF6B48?style=flat-square&logo=argo&logoColor=white" />
-<img src="https://img.shields.io/badge/SUSE_SLES_SAP-0C322C?style=flat-square&logo=suse&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 
 <br/><br/>
 
@@ -135,13 +123,11 @@ const guillermo: EngineerProfile = {
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/SAP_HANA-008FD3?style=flat-square&logo=sap&logoColor=white" />
 <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/Java_Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" />
-<img src="https://img.shields.io/badge/IBM_Instana-052FAD?style=flat-square&logo=ibm&logoColor=white" />
 
 </div>
 
