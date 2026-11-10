@@ -45,9 +45,12 @@ const guillermo: EngineerProfile = {
     cloud_infra: [
       "Google Cloud Platform (Compute Engine, GKE Autopilot, Cloud Run, Shared VPC, Cloud KMS)",
       "Microsoft Azure",
+      "Microsoft Hyper-V, VMware vSphere & Nutanix AHV",
+      "Almacenamiento SAN Fibre Channel (MPIO / CSV) & Veeam VBR",
       "Terraform / Terragrunt (IaC)",
       "Docker & Kubernetes",
-      "GitOps (ArgoCD, GitHub Actions)"
+      "GitOps (ArgoCD, GitHub Actions)",
+      "Linux (SLES for SAP, RHEL, Ubuntu) & Windows Server (AD)"
     ],
     backend_apis: [
       "Python 3.10+ (FastAPI, Celery, SQLAlchemy 2.0, Pydantic v2, Django REST)",
@@ -57,12 +60,13 @@ const guillermo: EngineerProfile = {
     databases_data: [
       "PostgreSQL (pgvector, Particionamiento)",
       "Microsoft SQL Server (AlwaysOn HA)",
+      "Infraestructura IaaS para SAP HANA",
       "Google BigQuery",
       "Redis (Caché distribuida, Pub/Sub)"
     ],
     observability_sre: [
-      "OpenTelemetry (OTel)",
-      "Prometheus & Grafana",
+      "OpenTelemetry (OTel) & IBM Instana APM",
+      "Prometheus, Grafana & Zabbix",
       "Métricas DORA & FinOps"
     ]
   },
@@ -83,7 +87,7 @@ const guillermo: EngineerProfile = {
 | Organización | Rol & Impacto | Tecnologías Clave |
 |---|---|---|
 | **Reforest Latam** | **Technical Lead & Senior Systems Engineer:**<br/>• Dirección de equipo (6 devs), arquitectura de microservicios en FastAPI / Celery / Redis (-45% en latencia de consultas) y React 18 / TypeScript (-40% en llamadas redundantes).<br/>• Estrategia FinOps (-28% en costos cloud), Zero-Trust IAM/Cloud Armor y GitOps con GitHub Actions y ArgoCD hacia GKE Autopilot y Cloud Run. | GCP · GKE Autopilot · Cloud Run · Terraform · ArgoCD · Python (FastAPI) · PostgreSQL · React 18 · FinOps |
-| **Consultoría Independiente & Proyectos Enterprise** | **Senior Cloud Architect & Software Consultant (Clientes bajo NDA):**<br/>• Diseño de arquitecturas multi-cloud y Landing Zones en Terraform, desarrollo de middleware asíncrono en Python (FastAPI, SQLAlchemy 2.0, Celery, Redis), microservicios en Java 17 (Spring Boot) y observabilidad con OpenTelemetry. | GCP · Terraform · Python · FastAPI · Java Spring Boot · PostgreSQL · SQL Server · Docker · Kubernetes |
+| **Consultoría Independiente & Proyectos Enterprise** | **Senior Cloud Architect, Infrastructure & Software Consultant (Clientes bajo NDA):**<br/>• Diseño de arquitecturas multi-cloud (GCP y Azure), Landing Zones en Terraform, migraciones de servidores e infraestructura IaaS de alta disponibilidad sobre Linux (SLES, RHEL) y Windows Server.<br/>• Clústeres de virtualización Hyper-V / VMware con almacenamiento SAN Fibre Channel y Veeam VBR, observabilidad distribuida (OpenTelemetry, APM, Prometheus/Grafana) y microservicios asíncronos en Python (FastAPI, Celery, SQLAlchemy 2.0, Redis) y Java 17 (Spring Boot). | GCP · Azure · Terraform · Hyper-V · SAN FC · Veeam VBR · SLES / RHEL · OpenTelemetry · Python FastAPI · Java Spring Boot · PostgreSQL · SQL Server |
 | **Universidad de Buenos Aires (UBA)** | **Senior Software Engineer & DBA:**<br/>• Administración de alta disponibilidad y performance tuning sobre 8+ TB de datos institucionales en SQL Server y PostgreSQL para +50.000 usuarios (-55% en latencia p95, 99.9% SLA) y automatización ETL en Python/Alembic. | SQL Server · PostgreSQL · Python · Alembic · Bash · Alta Disponibilidad · DRP/BCP |
 | **Gobierno de la Ciudad de Buenos Aires** | **Coordinador de Infraestructura & Operaciones de Sistemas:**<br/>• Coordinación de infraestructura híbrida Linux/Windows y motores SQL Server, PostgreSQL, MySQL y MongoDB para portales ciudadanos (+100.000 usuarios mensuales, 99.9% SLA, -30% en incidentes). | SQL Server · PostgreSQL · MySQL · MongoDB · Linux · Windows Server · Backups |
 
