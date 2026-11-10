@@ -25,7 +25,7 @@
 
 ## 👨🏻‍💻 Acerca de mí
 
-🚀 **Senior Cloud Solutions Architect, Backend Engineer & Tech Lead** con más de 8 años de experiencia diseñando arquitecturas cloud-native resilientes (**Google Cloud Platform & Microsoft Azure**), automatización con **Terraform (IaC)**, orquestación en **Kubernetes (GKE Autopilot)** y microservicios backend asíncronos de alta disponibilidad en **Python (FastAPI)**.
+🚀 **Senior Cloud Solutions Architect, Infrastructure Specialist & Tech Lead** con más de 8 años de experiencia diseñando arquitecturas cloud-native e híbridas resilientes (**Google Cloud Platform & Microsoft Azure**), virtualización enterprise (**Microsoft Hyper-V, VMware vSphere & Nutanix AHV**), automatización con **Terraform (IaC)**, orquestación en **Kubernetes (GKE Autopilot)** y microservicios backend asíncronos de alta disponibilidad en **Python (FastAPI)**.
 
 Combino mi formación técnica en Sistemas de Información (UTN) con estudios universitarios avanzados en Relaciones del Trabajo (UBA), liderando equipos de ingeniería (6+ desarrolladores) con rigor técnico, cultura ágil y foco en eficiencia operativa y financiera (**FinOps**).
 
@@ -35,9 +35,9 @@ const guillermo: EngineerProfile = {
   roles:        [
     "Senior Cloud Solutions Architect",
     "Technical Lead",
+    "Cloud & Virtualization Specialist",
     "Senior Python Backend Engineer",
-    "DevOps & FinOps Specialist",
-    "DBA & Data Engineer"
+    "DBA & Data Infrastructure Lead"
   ],
   experiencia:  "8+ años en TI, Arquitectura Cloud & Ingeniería de Software",
 
@@ -108,16 +108,19 @@ const guillermo: EngineerProfile = {
 
 <div align="center">
 
-**Cloud, Contenedores & DevOps**
+**Cloud, Virtualización & DevOps**
 <br/>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/VMware_vSphere-607078?style=flat-square&logo=vmware&logoColor=white" />
+<img src="https://img.shields.io/badge/Veeam_VBR-00B336?style=flat-square&logo=veeam&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/ArgoCD-EF6B48?style=flat-square&logo=argo&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/SUSE_Linux-0C322C?style=flat-square&logo=suse&logoColor=white" />
 
 <br/><br/>
 
@@ -127,11 +130,13 @@ const guillermo: EngineerProfile = {
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/SAP_HANA-008FD3?style=flat-square&logo=sap&logoColor=white" />
 <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/Java_Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" />
+<img src="https://img.shields.io/badge/IBM_Instana-052FAD?style=flat-square&logo=ibm&logoColor=white" />
 
 </div>
 
