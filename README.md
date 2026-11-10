@@ -72,10 +72,10 @@ const guillermo: EngineerProfile = {
   },
 
   metricas_clave: [
-    "Reducción sostenida del 28% en costos mensuales cloud mediante FinOps en Google Cloud Platform",
-    "Lead time de despliegue reducido de 5 días a minutos bajo demanda (Zero-Downtime GitOps con ArgoCD)",
+    "514 tests de integración automatizados (100% pasando) en plataforma financiera asíncrona con Python y Redis FSM",
+    "Motor de conciliación bancaria atómica multimoneda con parsers PDF/CSV, SHA-256, rollback por lote y OCR con IA",
     "Reducción del 55% en latencia p95 de consultas complejas en bases de datos críticas de 8+ TB",
-    "Reducción del 45% en el MTTR mediante observabilidad distribuida con OpenTelemetry"
+    "Reducción del 45% en el MTTR mediante observabilidad distribuida con OpenTelemetry y APM"
   ]
 };
 ```
@@ -86,7 +86,7 @@ const guillermo: EngineerProfile = {
 
 | Organización | Rol & Impacto | Tecnologías Clave |
 |---|---|---|
-| **Reforest Latam** | **Technical Lead & Senior Systems Engineer:**<br/>• Dirección de equipo (6 devs), arquitectura de microservicios en FastAPI / Celery / Redis (-45% en latencia de consultas) y React 18 / TypeScript (-40% en llamadas redundantes).<br/>• Estrategia FinOps (-28% en costos cloud), Zero-Trust IAM/Cloud Armor y GitOps con GitHub Actions y ArgoCD hacia GKE Autopilot y Cloud Run. | GCP · GKE Autopilot · Cloud Run · Terraform · ArgoCD · Python (FastAPI) · PostgreSQL · React 18 · FinOps |
+| **Reforest Latam** | **Senior Python Backend & Financial Automation Engineer:**<br/>• Desarrollo de plataforma operativa y bot financiero asíncrono en Python 3.11+ (`aiogram 3.x`, `asyncio`, `Redis FSM` con `events_isolation`), precisión contable (`Decimal`), RBAC *fail-closed* e integración con Baserow y Google Drive API.<br/>• Motor de conciliación bancaria atómica multimoneda (parsers nativos PDF/CSV/Excel, deduplicación SHA-256, rollback por lote, cotización histórica Dólar MEP T-1 a T-5, exportación ARCA), OCR con IA (`Gemini 2.5 Flash` / `DeepSeek`), Docker Compose en VPS y CI/CD con GitHub Actions (**514 tests en Pytest**). | Python 3.11+ · aiogram 3.x · Asyncio · Redis FSM · Pydantic · Baserow · Google Drive API · LLMs OCR · Docker Compose · Pytest · GitHub Actions |
 | **Consultoría Independiente & Proyectos Enterprise** | **Senior Cloud Architect, Infrastructure & Software Consultant (Clientes bajo NDA):**<br/>• Diseño de arquitecturas multi-cloud (GCP y Azure), Landing Zones en Terraform, migraciones de servidores e infraestructura IaaS de alta disponibilidad sobre Linux (SLES, RHEL) y Windows Server.<br/>• Clústeres de virtualización Hyper-V / VMware con almacenamiento SAN Fibre Channel y Veeam VBR, observabilidad distribuida (OpenTelemetry, APM, Prometheus/Grafana) y microservicios asíncronos en Python (FastAPI, Celery, SQLAlchemy 2.0, Redis) y Java 17 (Spring Boot). | GCP · Azure · Terraform · Hyper-V · SAN FC · Veeam VBR · SLES / RHEL · OpenTelemetry · Python FastAPI · Java Spring Boot · PostgreSQL · SQL Server |
 | **Universidad de Buenos Aires (UBA)** | **Senior Software Engineer & DBA:**<br/>• Administración de alta disponibilidad y performance tuning sobre 8+ TB de datos institucionales en SQL Server y PostgreSQL para +50.000 usuarios (-55% en latencia p95, 99.9% SLA) y automatización ETL en Python/Alembic. | SQL Server · PostgreSQL · Python · Alembic · Bash · Alta Disponibilidad · DRP/BCP |
 | **Gobierno de la Ciudad de Buenos Aires** | **Coordinador de Infraestructura & Operaciones de Sistemas:**<br/>• Coordinación de infraestructura híbrida Linux/Windows y motores SQL Server, PostgreSQL, MySQL y MongoDB para portales ciudadanos (+100.000 usuarios mensuales, 99.9% SLA, -30% en incidentes). | SQL Server · PostgreSQL · MySQL · MongoDB · Linux · Windows Server · Backups |
